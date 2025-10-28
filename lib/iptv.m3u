@@ -305,7 +305,7 @@ http://218.13.14.6:60050/tsfile/live/1004_1.m3u8$LR•IPV4•49『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://58.57.40.22:9901/tsfile/live/1003_1.m3u8$LR•IPV4•49『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
-https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761681422-1-pcsb89b5227f0054657938814f71f6e931e-bf2224dfa8a063a08a32f911a485ec11&yid=pcsb89b5227f0054657938814f71f6e931e$LR•IPV4•49『线路31』
+https://live-play-hls.cctvnews.cctv.com/CCTVChannel/channel_cctv4_mbd.m3u8?auth_key=1761685024-1-pcs5cf6f4cec8d3491089b7d2c1fad3feb3-c1c2010e3da6a6dd8f839d6d26c4111a&yid=pcs5cf6f4cec8d3491089b7d2c1fad3feb3$LR•IPV4•49『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
 http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8$LR•IPV4•49『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="CCTV4中文国际" group-title="央视频道",CCTV4中文国际
@@ -447,27 +447,27 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$LR•IPV6•63『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://148.135.93.213:81/live.php?id=CCTV5$LR•IPV4•63『线路53』
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$LR•IPV4•63『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019$LR•IPV4•63『线路54』
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$LR•IPV4•63『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8$LR•IPV4•63『线路55』
+https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$LR•IPV4•63『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-https://www.freetv.top/migu/641886683.m3u8?migutoken=3e5c01f93922de8d1c940fe15bb47349b27e8f7a2e624dde1a83dff3b2a80f58b7624151a3a4d00488edee34f202818557340903382fae02bb754084eb942bd50e59061df36fab62fb5b908903$LR•IPV4•63『线路56』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路57』
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5$LR•IPV4•63『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5$LR•IPV4•63『线路58』
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路58』
 #EXTINF:-1 tvg-id="59" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路59』
+https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$LR•IPV4•63『线路59』
 #EXTINF:-1 tvg-id="60" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100$LR•IPV4•63『线路60』
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路60』
 #EXTINF:-1 tvg-id="61" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路61』
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路61』
 #EXTINF:-1 tvg-id="62" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$LR•IPV6•63『线路62』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$LR•IPV6•63『线路62』
 #EXTINF:-1 tvg-id="63" tvg-name="CCTV5体育" group-title="央视频道",CCTV5体育
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$LR•IPV6•63『线路63』
+http://148.135.93.213:81/live.php?id=CCTV5$LR•IPV4•63『线路63』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
 http://112.27.235.94:8000/hls/6/index.m3u8$LR•IPV4•58『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
@@ -563,27 +563,27 @@ https://www.freetv.top/migu/641886773.m3u8?migutoken=d7396c05a877872a7519b5df458
 #EXTINF:-1 tvg-id="47" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
 https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a52e87dc35e108f3557992d0837a3c98af9093fccdb78373328e743136467868d2125b1fa35c3f4d576327db5e3ec96ec3108e28e950fb462f2dc81da44be8ae43ebe0ce$LR•IPV4•58『线路47』
 #EXTINF:-1 tvg-id="48" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://148.135.93.213:81/live.php?id=CCTV5p$LR•IPV4•58『线路48』
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$LR•IPV4•58『线路48』
 #EXTINF:-1 tvg-id="49" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603$LR•IPV4•58『线路49』
+https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$LR•IPV4•58『线路49』
 #EXTINF:-1 tvg-id="50" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-https://www.freetv.top/migu/641886773.m3u8?migutoken=03a1b82e35e58cd89a95034ecb29e77e50493397000ec2b1e4d1ce59af01e6420d6dbc068c8230ec03be3a35a20eed8714e0959e3570a08713a7a2e8d86085eabf8f1aa85744c80c38343988b2$LR•IPV4•58『线路50』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$LR•IPV6•58『线路50』
 #EXTINF:-1 tvg-id="51" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$LR•IPV6•58『线路51』
+https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$LR•IPV4•58『线路51』
 #EXTINF:-1 tvg-id="52" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus$LR•IPV4•58『线路52』
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$LR•IPV6•58『线路52』
 #EXTINF:-1 tvg-id="53" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$LR•IPV6•58『线路53』
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$LR•IPV6•58『线路53』
 #EXTINF:-1 tvg-id="54" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8$LR•IPV6•58『线路54』
+http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$LR•IPV6•58『线路54』
 #EXTINF:-1 tvg-id="55" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8$LR•IPV6•58『线路55』
+http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8$LR•IPV4•58『线路55』
 #EXTINF:-1 tvg-id="56" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227348/index.m3u8$LR•IPV4•58『线路56』
+https://www.freetv.top/migu/641886773.m3u8?migutoken=d7396c05a877872a7519b5df4582a7a4bdf13c82d09889e561f50d0035f006d199741b00d465e4e41b0f706bccfe3420f5d427961e7698ad2a8b8d82d9d320a827310f6c8a7d1c8f203c91b392$LR•IPV4•58『线路56』
 #EXTINF:-1 tvg-id="57" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-https://www.freetv.top/migu/641886773.m3u8?migutoken=d7396c05a877872a7519b5df4582a7a4bdf13c82d09889e561f50d0035f006d199741b00d465e4e41b0f706bccfe3420f5d427961e7698ad2a8b8d82d9d320a827310f6c8a7d1c8f203c91b392$LR•IPV4•58『线路57』
+https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a52e87dc35e108f3557992d0837a3c98af9093fccdb78373328e743136467868d2125b1fa35c3f4d576327db5e3ec96ec3108e28e950fb462f2dc81da44be8ae43ebe0ce$LR•IPV4•58『线路57』
 #EXTINF:-1 tvg-id="58" tvg-name="CCTV5+体育赛事" group-title="央视频道",CCTV5+体育赛事
-https://www.freetv.top/migu/641886773.m3u8?migutoken=408252ae4ee84d4533a52e87dc35e108f3557992d0837a3c98af9093fccdb78373328e743136467868d2125b1fa35c3f4d576327db5e3ec96ec3108e28e950fb462f2dc81da44be8ae43ebe0ce$LR•IPV4•58『线路58』
+http://148.135.93.213:81/live.php?id=CCTV5p$LR•IPV4•58『线路58』
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV6电影" group-title="央视频道",CCTV6电影
 http://112.27.235.94:8000/hls/7/index.m3u8$LR•IPV4•51『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV6电影" group-title="央视频道",CCTV6电影
@@ -5619,19 +5619,19 @@ http://39.134.65.78/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index
 #EXTINF:-1 tvg-id="14" tvg-name="安多卫视" group-title="卫视频道",安多卫视
 https://liveout.xntv.tv/a65jur/96iln2.m3u8$LR•IPV4•21『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050$LR•IPV4•21『线路15』
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659$LR•IPV4•21『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659$LR•IPV4•21『线路16』
+https://liveout.xntv.tv/a65jur/96iln2.m3u8$LR•IPV4•21『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/96iln2.m3u8$LR•IPV4•21『线路17』
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$LR•IPV4•21『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd$LR•IPV4•21『线路18』
+rtmp://liveout.xntv.tv/a65jur/96iln2$LR•IPV4•21『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-rtmp://liveout.xntv.tv/a65jur/96iln2$LR•IPV4•21『线路19』
+https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8$LR•IPV4•21『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8$LR•IPV4•21『线路20』
+http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$LR•IPV6•21『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="安多卫视" group-title="卫视频道",安多卫视
-http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8$LR•IPV6•21『线路21』
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050$LR•IPV4•21『线路21』
 #EXTINF:-1 tvg-id="1" tvg-name="康巴卫视" group-title="卫视频道",康巴卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227027/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkHMvBpWz4rccMxNvSRekpQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND$LR•IPV6•30『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="康巴卫视" group-title="卫视频道",康巴卫视
@@ -7229,95 +7229,97 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221226973/86129004.smil$LR•IPV4�
 #EXTINF:-1 tvg-id="20" tvg-name="新动漫" group-title="数字频道",新动漫
 rtsp://115.153.233.154/PLTV/88888888/224/3221226973/86129004.smil$LR•IPV4•20『线路20』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://live.mxdyeah.top/live.php?id=jinyingSD$LR•IPV4•45『线路1』
+https://live.mxdyeah.top/live.php?id=jinyingSD$LR•IPV4•46『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•45『线路2』
+http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•46『线路2』
 #EXTINF:-1 tvg-id="3" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://116.128.242.83:9901/tsfile/live/1002_1.m3u8$LR•IPV4•45『线路3』
+http://116.128.242.83:9901/tsfile/live/1002_1.m3u8$LR•IPV4•46『线路3』
 #EXTINF:-1 tvg-id="4" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•45『线路4』
+http://58.57.40.22:9901/tsfile/live/1059_1.m3u8$LR•IPV4•46『线路4』
 #EXTINF:-1 tvg-id="5" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•45『线路5』
+http://116.128.242.83:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•46『线路5』
 #EXTINF:-1 tvg-id="6" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•45『线路6』
+http://113.57.93.165:9900/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•46『线路6』
 #EXTINF:-1 tvg-id="7" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•45『线路7』
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•46『线路7』
 #EXTINF:-1 tvg-id="8" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路8』
+http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•46『线路8』
 #EXTINF:-1 tvg-id="9" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路9』
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•46『线路9』
 #EXTINF:-1 tvg-id="10" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•45『线路10』
+https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•46『线路10』
 #EXTINF:-1 tvg-id="11" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•45『线路11』
+https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•46『线路11』
 #EXTINF:-1 tvg-id="12" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•45『线路12』
+https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•46『线路12』
 #EXTINF:-1 tvg-id="13" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•45『线路13』
+https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•46『线路13』
 #EXTINF:-1 tvg-id="14" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•45『线路14』
+https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•46『线路14』
 #EXTINF:-1 tvg-id="15" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•45『线路15』
+https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•46『线路15』
 #EXTINF:-1 tvg-id="16" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://183.94.1.118:8801/tsfile/live/1000_1.m3u8$LR•IPV4•45『线路16』
+http://183.94.1.118:8801/tsfile/live/1000_1.m3u8$LR•IPV4•46『线路16』
 #EXTINF:-1 tvg-id="17" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://120.192.226.35:8009/hls/67/index.m3u8$LR•IPV4•45『线路17』
+http://120.192.226.35:8009/hls/67/index.m3u8$LR•IPV4•46『线路17』
 #EXTINF:-1 tvg-id="18" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•45『线路18』
+http://61.138.128.226:19901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$LR•IPV4•46『线路18』
 #EXTINF:-1 tvg-id="19" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://36.105.100.208:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•45『线路19』
+http://36.105.100.208:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•46『线路19』
 #EXTINF:-1 tvg-id="20" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3187&tk=e503191f8e20$LR•IPV4•45『线路20』
+http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3187&tk=e503191f8e20$LR•IPV4•46『线路20』
 #EXTINF:-1 tvg-id="21" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://139.129.231.228:50060/rtp/239.21.1.48:5002$LR•IPV4•45『线路21』
+http://139.129.231.228:50060/rtp/239.21.1.48:5002$LR•IPV4•46『线路21』
 #EXTINF:-1 tvg-id="22" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://220.170.241.204:9901/tsfile/live/1005_1.m3u8$LR•IPV4•45『线路22』
+http://220.170.241.204:9901/tsfile/live/1005_1.m3u8$LR•IPV4•46『线路22』
 #EXTINF:-1 tvg-id="23" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://139.196.151.191:2051/rtp/239.45.3.118:5140$LR•IPV4•45『线路23』
+http://139.196.151.191:2051/rtp/239.45.3.118:5140$LR•IPV4•46『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://183.11.239.36:808/hls/69/index.m3u8$LR•IPV4•45『线路24』
+http://183.11.239.36:808/hls/69/index.m3u8$LR•IPV4•46『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•45『线路25』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•46『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•45『线路26』
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000039/index.m3u8$LR•IPV6•46『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•45『线路27』
+https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8$LR•IPV4•46『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•45『线路28』
+https://epg.pw/stream/33c44b3d14a45ab0fbe06d98b6608a0067dd068ebb6bd8e4a931cb2e600f8548.m3u8$LR•IPV4•46『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•45『线路29』
+http://phoneqq.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwNi4xNC4zOC41NSZ0ZXJtPTUmcWlkPSZjZG5leF9pZD1xcV9waG9uZV9saXZlJmNocz0mZGVmPTEmcz00YjI0ZjhkYmE5NDA0Y2RiOWY0YmUxYWYwNzliZDIyMyZ1aWQ9JnV1aWQ9MzI3MjE1YWU0MjI1NDdiNGQxYzEzODllZDMzNTZlMjgtNmEwZTI2Mzcmdj0yJmFzPTAmZXM9MTc2MTY0MTExNQ,,/JYKTMPP360.m3u8$LR•IPV4•46『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://cc06.tv12.xyz/55.m3u8$LR•IPV4•45『线路30』
+http://ygbh.site/php/bfgd.php?id=105$LR•IPV4•46『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•45『线路31』
+https://cc06.tv12.xyz/55.m3u8$LR•IPV4•46『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•45『线路32』
+https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8$LR•IPV4•46『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•45『线路33』
+http://itv.iptv1688.top:2016/itv.php?id=金鹰卡通$LR•IPV4•46『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•45『线路34』
+http://home.wwang.pw:35455/itv/5000000006000040024.m3u8?cdn=bestzb$LR•IPV4•46『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•45『线路35』
+http://tvbox6.icu/tv/mgtv.php?id=287$LR•IPV4•46『线路35』
 #EXTINF:-1 tvg-id="36" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•45『线路36』
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225653/2.m3u8$LR•IPV6•46『线路36』
 #EXTINF:-1 tvg-id="37" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路37』
+https://stream1.freetv.fun/jin-ying-qia-tong-22.m3u8$LR•IPV4•46『线路37』
 #EXTINF:-1 tvg-id="38" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•45『线路38』
+http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•46『线路38』
 #EXTINF:-1 tvg-id="39" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•45『线路39』
+http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8$LR•IPV4•46『线路39』
 #EXTINF:-1 tvg-id="40" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•45『线路40』
+https://stream1.freetv.fun/jin-ying-qia-tong-9.ctv$LR•IPV4•46『线路40』
 #EXTINF:-1 tvg-id="41" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•45『线路41』
+https://stream1.freetv.fun/jin-ying-qia-tong-39.m3u8$LR•IPV4•46『线路41』
 #EXTINF:-1 tvg-id="42" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•45『线路42』
+https://stream1.freetv.fun/jin-ying-qia-tong-10.m3u8$LR•IPV4•46『线路42』
 #EXTINF:-1 tvg-id="43" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•45『线路43』
+https://stream1.freetv.fun/jin-ying-qia-tong-41.ctv$LR•IPV4•46『线路43』
 #EXTINF:-1 tvg-id="44" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•45『线路44』
+https://stream1.freetv.fun/jin-ying-qia-tong-21.m3u8$LR•IPV4•46『线路44』
 #EXTINF:-1 tvg-id="45" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
-http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•45『线路45』
+https://stream1.freetv.fun/ipv6-jin-ying-qia-tong-13.m3u8$LR•IPV4•46『线路45』
+#EXTINF:-1 tvg-id="46" tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
+http://58.19.43.46:9901/tsfile/live/1000_1.m3u8$LR•IPV4•46『线路46』
 #EXTINF:-1 tvg-id="1" tvg-name="金鹰纪实" group-title="数字频道",金鹰纪实
 http://sh.lnott.top:880/dx96.m3u8$LR•IPV4•36『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金鹰纪实" group-title="数字频道",金鹰纪实
@@ -7521,9 +7523,9 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33�
 #EXTINF:-1 tvg-id="31" tvg-name="都市剧场" group-title="数字频道",都市剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226155/index.m3u8$LR•IPV6•33『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路32』
+http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="都市剧场" group-title="数字频道",都市剧场
-http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8$LR•IPV6•33『线路33』
+https://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8$LR•IPV4•33『线路33』
 #EXTINF:-1 tvg-id="1" tvg-name="金色学堂" group-title="数字频道",金色学堂
 http://sh.lnott.top:880/dx109.m3u8$LR•IPV4•10『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="金色学堂" group-title="数字频道",金色学堂
@@ -8077,27 +8079,27 @@ http://101.35.240.114:88/live.php?id=五星体育$LR•IPV4•35『线路23』
 #EXTINF:-1 tvg-id="24" tvg-name="五星体育" group-title="上海频道",五星体育
 http://8.138.7.223/tv/shtv.php?id=wxty$LR•IPV4•35『线路24』
 #EXTINF:-1 tvg-id="25" tvg-name="五星体育" group-title="上海频道",五星体育
-http://148.135.93.213:81/live.php?id=五星体育$LR•IPV4•35『线路25』
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8$LR•IPV6•35『线路25』
 #EXTINF:-1 tvg-id="26" tvg-name="五星体育" group-title="上海频道",五星体育
-http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8$LR•IPV6•35『线路26』
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8$LR•IPV4•35『线路26』
 #EXTINF:-1 tvg-id="27" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-7.m3u8$LR•IPV4•35『线路27』
+https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8$LR•IPV4•35『线路27』
 #EXTINF:-1 tvg-id="28" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-15.m3u8$LR•IPV4•35『线路28』
+https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8$LR•IPV4•35『线路28』
 #EXTINF:-1 tvg-id="29" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-3.m3u8$LR•IPV4•35『线路29』
+https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8$LR•IPV4•35『线路29』
 #EXTINF:-1 tvg-id="30" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-7.m3u8$LR•IPV4•35『线路30』
+https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8$LR•IPV4•35『线路30』
 #EXTINF:-1 tvg-id="31" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-2.m3u8$LR•IPV4•35『线路31』
+https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8$LR•IPV4•35『线路31』
 #EXTINF:-1 tvg-id="32" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-10.m3u8$LR•IPV4•35『线路32』
+https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8$LR•IPV4•35『线路32』
 #EXTINF:-1 tvg-id="33" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/ipv6-wu-xing-ti-yu-2.m3u8$LR•IPV4•35『线路33』
+https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8$LR•IPV4•35『线路33』
 #EXTINF:-1 tvg-id="34" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-9.m3u8$LR•IPV4•35『线路34』
+https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8$LR•IPV4•35『线路34』
 #EXTINF:-1 tvg-id="35" tvg-name="五星体育" group-title="上海频道",五星体育
-https://stream1.freetv.fun/wu-xing-ti-yu-4.m3u8$LR•IPV4•35『线路35』
+http://148.135.93.213:81/live.php?id=五星体育$LR•IPV4•35『线路35』
 #EXTINF:-1 tvg-id="1" tvg-name="东方影视" group-title="上海频道",东方影视
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212$LR•IPV4•27『线路1』
 #EXTINF:-1 tvg-id="2" tvg-name="东方影视" group-title="上海频道",东方影视
